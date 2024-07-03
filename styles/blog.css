@@ -2,5 +2,5 @@ h3{
     background-color: blueviolet;
 }
 p{
-    background-color: aquamarine;
+    background-color: aquamarine; border: 5px solid; margin: 20px;
 }
