@@ -2,5 +2,4 @@ h3{
     background-color: blueviolet;
 }
 p{
-    border: 10px solid; border-radius: 20px; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: blueviolet;
-}
+    border: 10px solid; border-radius: 20px; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: blueviolet; padding: 5px 4px 5px 4px; margin: 20px;
