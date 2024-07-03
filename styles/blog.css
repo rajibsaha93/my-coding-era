@@ -2,5 +2,5 @@ h3{
     background-color: blueviolet;
 }
 p{
-    background-color: aquamarine; border: 5px solid; margin: 20px;
+    border: 10px solid; border-radius: 20px; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: blueviolet;
 }
